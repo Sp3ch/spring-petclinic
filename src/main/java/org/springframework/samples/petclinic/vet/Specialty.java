@@ -28,7 +28,7 @@ import org.springframework.samples.petclinic.model.NamedEntity;
  * @author Juergen Hoeller
  */
 @Entity
-@Table(name = "specialties")
+@Table(name = "specialty")
 public class Specialty extends NamedEntity implements Serializable {
 
 }
